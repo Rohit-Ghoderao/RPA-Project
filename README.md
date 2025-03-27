@@ -1,8 +1,6 @@
 # RPA-Projects
 🤖 RPA Demo Projects – Rohit Ghoderao
 
-Here’s a concise and professional README tailored specifically for your demo projects:
-
 ---
 
 ## 📚 **RPA Demo Projects – Rohit Ghoderao**  
